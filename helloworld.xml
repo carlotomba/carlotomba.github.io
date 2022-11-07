@@ -12,19 +12,11 @@
 		<link>https://www.raiplaysound.it/playlist/lartesecondolei</link>		
 		<item>
 			<title>1. Isabella d'Este</title>
-			<guid>timendum-raiplaysound-ContentItem-539d8800-058a-43d8-980b-28c07ee9870b</guid>
-			<pubDate>Thu, 14 May 2020 08:17:00 -0000</pubDate>
-			<link>https://www.raiplaysound.it/audio/2020/05/VITE-CHE-NON-SONO-LA-TUA---Isabella-daposEste-539d8800-058a-43d8-980b-28c07ee9870b.html</link>
 			<description>Raffinata maestra di eleganza, prima donna del mondo, tra la fine del Quattrocento e l'inizio del Cinquecento, Isabella d'Este diventa un modello di riferimento non solo per le corti italiane, ma anche per quelle d'oltralpe. Generosissima di sforzi e attenzioni verso il popolo e la città di Mantova, abilissima tessitrice di intese a difesa della famiglia e a riparazione di alcune arditezze politiche. La marchesa di Mantova si muove meglio di tanti uomini tra corti permalose, pontefici rancorosi e despoti, sovrani facili all'equivoco e alla guerra.</description>
+			<pubDate>Thu, 14 May 2020 08:17:00 -0000</pubDate>
 			<enclosure type="audio/mp3" url="https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CpPpPlussAb6pPpPlussObkKAy1cS22wQtDAeeqqEEqualeeqqEEqual"/>
-			<itunes:title>1. Isabella d'Este</itunes:title>
-			<itunes:summary>Raffinata maestra di eleganza, prima donna del mondo, tra la fine del Quattrocento e l'inizio del Cinquecento, Isabella d'Este diventa un modello di riferimento non solo per le corti italiane, ma anche per quelle d'oltralpe. Generosissima di sforzi e attenzioni verso il popolo e la città di Mantova, abilissima tessitrice di intese a difesa della famiglia e a riparazione di alcune arditezze politiche. La marchesa di Mantova si muove meglio di tanti uomini tra corti permalose, pontefici rancorosi e despoti, sovrani facili all'equivoco e alla guerra.</itunes:summary>
 			<itunes:duration>00:28:36</itunes:duration>
-			<image>
-				<url>https://www.raiplaysound.it/dl/img/2020/05/22/1590157426017_isa.jpg</url>
-			</image>
-			<itunes:season>2020</itunes:season>
-			<itunes:episode>1</itunes:episode>
+			<guid>timendum-raiplaysound-ContentItem-539d8800-058a-43d8-980b-28c07ee9870b</guid>
 		</item>
 	</channel>
 </rss>
