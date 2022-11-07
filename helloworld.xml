@@ -3,7 +3,6 @@
 	<channel>
 		<title>L'arte, secondo lei</title>
 		<description>Isabella d'Este e Gabriella Lonardi Buontempo sono le protagoniste di questo ciclo di "Vite" che esplora il poco noto universo del mecenatismo e collezionismo femminile. Di Costantino D'Orazio.</description>
-		<pubDate>Wed, 16 Mar 2022 13:00:58 -0000</pubDate>
 		<link>https://www.raiplaysound.it/playlist/lartesecondolei</link>
 		<image>
 			<url>https://www.raiplaysound.it/dl/img/2022/03/03/1646302011202_Larte%20secondo%20lei-2048x2048.jpg</url>
@@ -13,9 +12,6 @@
 		<itunes:owner>
 			<itunes:email>timedum@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:category text="Arte"/>
-		<itunes:category text="Documentari"/>
-		<itunes:category text="Biografico"/>
 		<item>
 			<title>1. Isabella d'Este</title>
 			<guid>timendum-raiplaysound-ContentItem-539d8800-058a-43d8-980b-28c07ee9870b</guid>
