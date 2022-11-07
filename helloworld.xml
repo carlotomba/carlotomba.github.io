@@ -8,8 +8,8 @@
 		<itunes:author>RaiPlaySound</itunes:author>
 		<description>Isabella d'Este e Gabriella Lonardi Buontempo sono le protagoniste di questo ciclo di "Vite" che esplora il poco noto universo del mecenatismo e collezionismo femminile. Di Costantino D'Orazio.</description>
 		<itunes:image href="https://www.raiplaysound.it/dl/img/2022/03/03/1646302011202_Larte%20secondo%20lei-2048x2048.jpg"/>
-		<link>https://www.raiplaysound.it/playlist/lartesecondolei</link>		
 		<language>it-it</language>		
+		<link>https://www.raiplaysound.it/playlist/lartesecondolei</link>		
 		<item>
 			<title>1. Isabella d'Este</title>
 			<guid>timendum-raiplaysound-ContentItem-539d8800-058a-43d8-980b-28c07ee9870b</guid>
@@ -25,22 +25,6 @@
 			</image>
 			<itunes:season>2020</itunes:season>
 			<itunes:episode>1</itunes:episode>
-		</item>
-		<item>
-			<title>2. Graziella Lonardi Buontempo</title>
-			<guid>timendum-raiplaysound-ContentItem-7c2fff5b-9cd0-49a3-802e-6fca6f41c533</guid>
-			<pubDate>Fri, 15 May 2020 08:17:00 -0000</pubDate>
-			<link>https://www.raiplaysound.it/audio/2020/05/VITE-CHE-NON-SONO-LA-TUA---Graziella-Lonardi-Buontempo-7c2fff5b-9cd0-49a3-802e-6fca6f41c533.html</link>
-			<description>Bellissima e altera, capelli corvini e gli occhi verdi e magnetici come quelli di una dea medio-orientale. Classe 1928, Graziella Lonardi Buontempo aveva una personalità fulgida, radiante, inossidabilmente energetica, lievemente misteriosa...</description>
-			<enclosure type="audio/mp3" url="https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qEezy7XXtAOqo7DqAaidZAeeqqEEqualeeqqEEqual"/>
-			<itunes:title>2. Graziella Lonardi Buontempo</itunes:title>
-			<itunes:summary>Bellissima e altera, capelli corvini e gli occhi verdi e magnetici come quelli di una dea medio-orientale. Classe 1928, Graziella Lonardi Buontempo aveva una personalità fulgida, radiante, inossidabilmente energetica, lievemente misteriosa...</itunes:summary>
-			<itunes:duration>00:25:30</itunes:duration>
-			<image>
-				<url>https://www.raiplaysound.it/dl/img/2020/05/22/1590157936577_4778697_orig.jpg</url>
-			</image>
-			<itunes:season>2020</itunes:season>
-			<itunes:episode>2</itunes:episode>
 		</item>
 	</channel>
 </rss>
