@@ -7,9 +7,7 @@
 		</itunes:owner>
 		<itunes:author>RaiPlaySound</itunes:author>
 		<description>Isabella d'Este e Gabriella Lonardi Buontempo sono le protagoniste di questo ciclo di "Vite" che esplora il poco noto universo del mecenatismo e collezionismo femminile. Di Costantino D'Orazio.</description>
-		<image>
-			<url>https://www.raiplaysound.it/dl/img/2022/03/03/1646302011202_Larte%20secondo%20lei-2048x2048.jpg</url>
-		</image>		
+		<itunes:image href="https://www.raiplaysound.it/dl/img/2022/03/03/1646302011202_Larte%20secondo%20lei-2048x2048.jpg"/>
 		<link>https://www.raiplaysound.it/playlist/lartesecondolei</link>		
 		<language>it-it</language>		
 		<item>
