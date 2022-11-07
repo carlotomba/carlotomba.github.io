@@ -11,12 +11,12 @@
 		<language>it-it</language>		
 		<link>https://www.raiplaysound.it/playlist/lartesecondolei</link>		
 		<item>
-			<title>Top 10 myths about caring for a zebra</title>
-			<description>Here are the top 10 misunderstandings about the care, feeding, and breeding of these lovable striped animals.</description>
+			<title>1. Isabella d'Este</title>
+			<description>Raffinata maestra di eleganza, prima donna del mondo, tra la fine del Quattrocento e l'inizio del Cinquecento, Isabella d'Este diventa un modello di riferimento non solo per le corti italiane, ma anche per quelle d'oltralpe. Generosissima di sforzi e attenzioni verso il popolo e la città di Mantova, abilissima tessitrice di intese a difesa della famiglia e a riparazione di alcune arditezze politiche. La marchesa di Mantova si muove meglio di tanti uomini tra corti permalose, pontefici rancorosi e despoti, sovrani facili all'equivoco e alla guerra.</description>
 			<pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
-			<enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/toptenmyths.mp3" type="audio/mpeg" length="34216300"/>
-			<itunes:duration>30:00</itunes:duration>
-			<guid isPermaLink="false">dzpodtop10</guid>
+			<enclosure type="audio/mp3" url="https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CpPpPlussAb6pPpPlussObkKAy1cS22wQtDAeeqqEEqualeeqqEEqual"/>
+			<itunes:duration>00:28:36</itunes:duration>
+			<guid isPermaLink="false">timendum-raiplaysound-ContentItem-539d8800-058a-43d8-980b-28c07ee9870b</guid>
 		</item>
 	</channel>
 </rss>
