@@ -16,7 +16,7 @@
 			<pubDate>Thu, 14 May 2020 08:17:00 -0000</pubDate>
 			<enclosure type="audio/mp3" url="https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=CpPpPlussAb6pPpPlussObkKAy1cS22wQtDAeeqqEEqualeeqqEEqual"/>
 			<itunes:duration>00:28:36</itunes:duration>
-			<guid>timendum-raiplaysound-ContentItem-539d8800-058a-43d8-980b-28c07ee9870b</guid>
+			<guid isPermaLink="false">timendum-raiplaysound-ContentItem-539d8800-058a-43d8-980b-28c07ee9870b</guid>
 		</item>
 	</channel>
 </rss>
